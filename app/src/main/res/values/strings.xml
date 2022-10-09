@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="settings">settings</string>
+    <string name="set_to_my_location">Set to my location</string>
+    <string name="go_to_dashboard">Go to dashboard</string>
+    <string name="togglechoroplethmap">toggleChoroplethMap</string>
+    <string name="setlocation">setLocation</string>
+    <string name="lga">LGA:</string>
+</resources>
